@@ -1,7 +1,7 @@
 ---
 title: Welcome
 Accidental pinhole and pinspeck cameras.
-Purpose: to predict the scene outside the image.
+Purpose: to predict the surroundings of an image.
 permalink: /docs/home/
 redirect_from: /docs/index.html
 
