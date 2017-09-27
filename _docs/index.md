@@ -3,10 +3,7 @@ title: Welcome
 Accidental pinhole and pinspeck cameras.
 Purpose: to predict the surroundings of an image.
 permalink: /docs/home/
-redirect_from: /docs/index.html
 
-
-<p>
 In an image, in day light, in a room, or in any closed area with a small opening, the walls of the room will act as screens and the opening as a pinhole. Thus we can extract an iverted image of the surroundings. 
  As it can be seen in the image below.
 	
@@ -84,7 +81,7 @@ Reference:
 link:https://link.springer.com/content/pdf/10.1007%2Fs11263-014-0697-5.pdf
 
 
-</p>
 ---
 
 
+redirect_from: /docs/index.html
